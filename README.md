@@ -4,3 +4,4 @@ This repository to show some animals
 - [lion](lion.md)
 - [horse](horse.md)
 - [tiger](tiger.md)
+- [tiger](cat.md)
